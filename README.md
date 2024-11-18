@@ -30,8 +30,8 @@ Before running the code, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/ruthiedel/HebrewHalachaRag.git
+    cd HebrewHalachaRag
     ```
 
 2. Install the required Python packages:
