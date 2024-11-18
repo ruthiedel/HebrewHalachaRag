@@ -64,6 +64,10 @@ Before running the code, ensure you have the following installed:
 
 This project is unique in that it addresses the specific challenges of Hebrew language models by tailoring the RAG algorithm to the Yalkut Yosef book. This approach offers a novel solution to providing accurate halachic answers in Hebrew, overcoming the limitations of existing language models.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
