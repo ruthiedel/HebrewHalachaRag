@@ -48,7 +48,7 @@ Before running the code, ensure you have the following installed:
 ## Usage Examples
 To ask a halachic question:
 1. Run the Streamlit interface:
-   (if you don't use jupiter notebook) 
+   (if you don't use jupyter notebook) 
   ```bash
     streamlit run app.py
   ```
