@@ -45,6 +45,18 @@ Before running the code, ensure you have the following installed:
 
 3. Ensure MongoDB is installed and running on your local machine. Create databases `halacha` and `halacha_embedding` as required.
 
+## Usage Examples
+To ask a halachic question:
+1. Run the Streamlit interface:
+  ```bash
+    streamlit run app.py
+  ```
+2. Upload a text file or type your question in Hebrew.
+3. View the suggested halachic response along with the source reference.
+
+Example question:מה מברך על פופקורן
+response:ברוך אתה ... בורא פרי האדמה. + source
+
 ## Configuration
 
 1. **BERT Model**: The code uses `avichr/heBERT`. Ensure the model is accessible or adjust the `model_name` variable if using a different model.
