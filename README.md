@@ -4,6 +4,9 @@
 
 This project provides an innovative system for answering halachic questions using a Retrieval-Augmented Generation (RAG) algorithm. It is specifically tailored for the Yalkut Yosef book, addressing the unique challenges associated with Hebrew language models. The system combines text embedding with efficient search and retrieval to provide accurate halachic responses.
 
+## Disclaimer
+This project is for educational and informational purposes only. The answers provided by the system should not be considered as definitive halachic rulings. Users are encouraged to consult a qualified rabbinic authority for any practical halachic questions.
+
 ## Features
 
 - **Hebrew Halachic Answering**: Uses the RAG algorithm to generate halachic answers based on the Yalkut Yosef book.
